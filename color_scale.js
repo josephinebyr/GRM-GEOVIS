@@ -181,15 +181,10 @@ var color_scales_palettes = {
 	JB_auto_vague:{
 		"4":['#bfbfbf','#9ecae1','#3182bd','#bfbfbf']
 	},
-	JB_auto_vague_inverse:{
-		"4":['#bfbfbf','#fc9272','#de2d26','#bfbfbf']
-	},
 
 	JB_auto_vague_3class:{
-		"5":['#bfbfbf','#deebf7','#9ecae1','#3182bd','#bfbfbf']
+		"5":['#bfbfbf','#1f78b4','#e31a1c','#33a02c','#bfbfbf']
 	},
-	JB_auto_vague_3class_inverse:{
-		"5":['#bfbfbf','#fee0d2','#fc9272','#de2d26','#bfbfbf']
-	}
+	
 	
 }
